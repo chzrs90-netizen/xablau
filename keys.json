@@ -468,6 +468,13 @@
       "first_use": 1764114020431,
       "perm": false,
       "duration": "7d"
+     },
+    "jesus": {
+      "active": true,
+      "owner": "apelaxablau",
+      "first_use": null,
+      "perm": false,
+      "duration": "2d"
     }
   }
 }
