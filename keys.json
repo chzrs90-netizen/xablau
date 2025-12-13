@@ -494,7 +494,7 @@
       "duration": "10d",
       "perm": false,
       "active": true,
-      "first_use": null,
+      "first_use": 1765594977101,
       "owner": "Sem nome"
     }
   }
