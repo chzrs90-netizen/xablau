@@ -342,7 +342,7 @@
       "duration": "7d",
       "active": true,
       "owner": "RAIO",
-      "first_use": null,
+      "first_use": 1765659191490,
       "perm": false,
       "device_limit": 1
     },
