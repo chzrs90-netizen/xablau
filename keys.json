@@ -502,13 +502,6 @@
       "active": true,
       "first_use": null,
       "owner": "CHINES"
-    },
-    "undefined": {
-      "duration": "1d",
-      "perm": false,
-      "active": true,
-      "first_use": null,
-      "owner": "Sem nome"
     }
   }
 }
