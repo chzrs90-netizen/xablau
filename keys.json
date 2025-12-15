@@ -65,7 +65,7 @@
       "duration": "1m",
       "active": true,
       "owner": "RAIO",
-      "first_use": null,
+      "first_use": 1765812597941,
       "perm": false,
       "device_limit": 1
     },
